@@ -41,7 +41,8 @@ def apply_coupons(cart, coupons)
   # Consult README for inputs and outputs
   #
   # REMEMBER: This method **should** update cart
-  # what a JOKE
+  counter = 0
+  while
   
 end
 
